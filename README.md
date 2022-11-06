@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://www.policybazaar.com/pblife/assets/images/pb_life_How_to_increase_Health_insurance_cover_1592063367.gif)
+![screenshot](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/478b5ba4-46cf-4d31-94e7-0b87621464d6/pb_life_How_to_increase_Health_insurance_cover_1592063367.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221106%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221106T052053Z&X-Amz-Expires=86400&X-Amz-Signature=0102361a953be50bbd1959bc3f6f691d5371bc92ddf4210b9ea5d296efca7204&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 ## Key Features
 
