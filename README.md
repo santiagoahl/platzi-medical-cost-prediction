@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A `scikit-learn` implementation of linear regressors.</h4>
+<h4 align="center">A scikit-learn implementation of linear regressors.</h4>
 
 <p align="center">
   <a href='https://www.kaggle.com/' target="_blank"><img alt='kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=37BAE8&labelColor=BEFDFF&color=37BAE8'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='scikit-learn' src='https://img.shields.io/badge/scikit-learn-100000?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF&labelColor=FF6A00&color=1882EA'/></a> <a href='https://seaborn.pydata.org/' target="_blank"><img alt='seaborn' src='https://img.shields.io/badge/Seaborn-100000?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=black&color=186FCD'/></a>
