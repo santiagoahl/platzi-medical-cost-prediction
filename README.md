@@ -20,7 +20,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://www.policybazaar.com/pblife/assets/images/pb_life_How_to_increase_Health_insurance_cover_1592063367.gif)
+![gif](https://www.policybazaar.com/pblife/assets/images/pb_life_How_to_increase_Health_insurance_cover_1592063367.gif)
 
 ## Key Features
 
