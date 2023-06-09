@@ -1,7 +1,6 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiXr4mw4Zj7AhX0SDABHfibBTIQFnoECBYQAQ&url=https%3A%2F%2Fwww.census.gov%2F&usg=AOvVaw3GuO0GtBqUhZ_msyq5s0RM"><img src="https://update.lib.berkeley.edu/wp-content/uploads/2016/05/census-logo.png" alt="US Census Bureau" width="300"></a>
   <br>
   Linear regressor medical cost predicter
   <br>
